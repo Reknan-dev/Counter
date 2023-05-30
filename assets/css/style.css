@@ -7,7 +7,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(./Counter/assets/img/blob-scatter-haikei.svg);
+  background: url(/Counter/assets/img/blob-scatter-haikei.svg);
   background-position: cover;
   
 }
@@ -179,7 +179,7 @@ span {
 }
 
 .pokemon0 {
-  background-image: url(./Counter/assets/img/egg.png);
+  background-image: url(/Counter/assets/img/egg.png);
   animation: evolve0 1s forwards;
   background-repeat: no-repeat;
   background-size: contain;
@@ -190,7 +190,7 @@ span {
 }
 
 .pokemon1 {
-  background-image: url(./Counter/assets/img/charmander.png);
+  background-image: url(/Counter/assets/img/charmander.png);
   animation: evolve1 2s forwards;
   background-repeat: no-repeat;
   background-size: contain;
@@ -201,7 +201,7 @@ span {
 }
 
 .pokemon2 {
-  background-image: url(./Counter/assets/img/charmeleon.png);
+  background-image: url(/Counter/assets/img/charmeleon.png);
   animation: evolve2 2s forwards;
   background-repeat: no-repeat;
   background-size: contain;
@@ -212,7 +212,7 @@ span {
 }
 
 .pokemon3 {
-  background-image: url(./Counter/assets/img/charizard.png);
+  background-image: url(/Counter/assets/img/charizard.png);
   animation: evolve3 2s forwards;
   background-repeat: no-repeat;
   background-size: contain;
