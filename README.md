@@ -5,7 +5,10 @@ Web App
 
 
 
-<div align="center">https://github.com/Reknan-dev/Counter/assets/124897691/33acb112-5af8-4df0-ac4b-e3d9ce549603</div>
+<div align="center">
+  ![logo](https://github.com/Reknan-dev/Counter/assets/124897691/2884593f-e848-48fd-b456-e9449e95e283)
+
+</div>
 
 
 <br />
