@@ -5,17 +5,18 @@ Web App
     <img src="/Counter/assets/img/logo.png" alt="Logo" width="80" height="80">
 </div>
 
-<a name="readme-top"></a>
-
 
 
 <br />
+
+
+<h3 align="center">Pokemon Counter</h3>
+
 <div align="center">
   <a href="https://github.com/Reknan-dev/Counter">
     <img src="/assets/img/title.png">
     </a>
 
-<h3 align="center">Pokemon Counter</h3>
 
   <p align="center">
     A Pokemon Counter with sounds and animation
