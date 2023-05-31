@@ -2,7 +2,7 @@
 Web App
 
 <div align="center">
-    <img src="/Counter/assets/img/logo.png" alt="Logo" width="80" height="80">
+    <img src="/assets/img/logo.png" alt="Logo" width="80" height="80">
 </div>
 
 
