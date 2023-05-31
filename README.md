@@ -12,10 +12,10 @@ Web App
 
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Pokemon Counter</h3>
 
   <p align="center">
-    project_description
+    A Pokemon Counter with sounds and animation
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
