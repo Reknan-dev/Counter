@@ -92,7 +92,7 @@ The counter doesn't actually have many uses, but it could be useful for keeping 
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/Reknan-dev/Counter/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Counter/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
