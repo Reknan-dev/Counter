@@ -57,6 +57,7 @@ Web App
 
 ## About The Project
 
+  I created this project to practice the JavaScript language and start creating something a little more elaborate with CSS, since I'm new to development
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
