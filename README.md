@@ -75,7 +75,7 @@ Web App
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
+There aren't many uses for the counter, but some of them might be keeping track of a score or just counting without using your hands since you only have ten fingers.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
