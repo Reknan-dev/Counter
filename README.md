@@ -19,7 +19,7 @@ Web App
     <a href="https://github.com/Reknan-dev/Counter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Reknan-dev/Counter">View Demo</a>
+    <a href="https://reknan-dev.github.io/Counter/">View Demo</a>
     ·
     <a href="https://github.com/Reknan-dev/Counter/issues">Report Bug</a>
     ·
