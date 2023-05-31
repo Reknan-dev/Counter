@@ -67,7 +67,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,&theme=light)](https://skills.thijs.gg)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
