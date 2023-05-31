@@ -18,12 +18,12 @@ let incContainer = document.createElement("div");
 let decContainer = document.createElement("div");
 let resContainer = document.createElement("div");
 
-// Aggiunta delle classi ai contenitori
+
 incContainer.setAttribute("class", "inc-container");
 decContainer.setAttribute("class", "dec-container");
 resContainer.setAttribute("class", "res-container");
 
-// Aggiunta dei pulsanti ai rispettivi contenitori
+
 
 decContainer.appendChild(btnDec);
 resContainer.appendChild(btnRes);
@@ -40,7 +40,7 @@ counterDisplay.setAttribute("id", "num");
 counterDisplay.innerHTML = counter;
 document.querySelector(".container .level-container").appendChild(counterDisplay);
 
-// Aggiunta degli event listener per i pulsanti
+
 btnInc.addEventListener("click", function () {
   counter++;
   counterDisplay.innerHTML = counter;
@@ -63,7 +63,7 @@ btnRes.addEventListener("click", function () {
   playResetSound();
 });
 
-// riferimento all'elemento Pokemon
+// cambio dell'elemento Pokemon
 
 let pokemonElement = document.querySelector(".pokemon-container .pokemon1");
 
