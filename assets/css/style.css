@@ -27,16 +27,21 @@ span {
   text-shadow: 2px 2px black;
 }
 
+/* console esterna */
+
 .console-container {
-  position: relative;
+  position: relative;                           
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.console {
+.console {                /*img */
   width: 100%;
 }
+
+
+/* schermo */
 
 #screen {
   position: absolute;
@@ -63,6 +68,8 @@ span {
   width: 90%;
 }
 
+/* contatore e barra */
+
 .level-container {
   display: flex;
   border: black solid;
@@ -75,12 +82,6 @@ span {
   overflow: auto;
 }
 
-.pokemon-name1 {
-  position: absolute;
-  font-family: 'Public Pixel', sans-serif;
-  margin: 0;
-  top: 0;
-}
 
 #level,
 #num {
@@ -90,6 +91,16 @@ span {
   font-size: 18px;
   font-weight: lighter;
 }
+
+
+.pokemon-name1 {
+  position: absolute;
+  font-family: 'Public Pixel', sans-serif;
+  margin: 0;
+  top: 0;
+}
+
+
 
 .experience-bar {
   display: flex;
@@ -102,7 +113,7 @@ span {
   width: 200px;
 }
 
-.fill {
+.fill {                               /* riempimento barra */
   border: white 1px groove;
   background-color: deepskyblue;
   border-left: none;
@@ -112,6 +123,9 @@ span {
   width: 0;
   transition: width ease-in-out;
 }
+
+
+/* stile buttons */
 
 .button-container {
   display: flex;
@@ -171,6 +185,9 @@ span {
   box-shadow: none;
 }
 
+
+/* pokemon */
+
 .pokemon-container {
   position: absolute;
   background-position: center;
@@ -221,6 +238,10 @@ span {
   margin: 0 auto;
   margin-bottom: 50px;
 }
+
+
+/* animazioni */
+
 
 @keyframes evolve0 {
   0% {
@@ -284,6 +305,9 @@ span {
     opacity: 1;
   }
 }
+
+
+
 
 @media only screen and (min-width: 320px) and (max-width: 400px) {
   #title {
