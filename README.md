@@ -4,11 +4,10 @@ Web App
 <a name="readme-top"></a>
 
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/benedetto-caiazzo-2ba997261/]
+
+![logo](https://github.com/Reknan-dev/Counter/assets/124897691/33acb112-5af8-4df0-ac4b-e3d9ce549603)
 
 
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
