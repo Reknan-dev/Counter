@@ -8,9 +8,8 @@ Web App
 <br />
 <div align="center">
   <a href="https://github.com/Reknan-dev/Counter">
-    <img src="/Counter/assets/img/logo.png">
-
-  </a>
+    <img src="/assets/img/logo.png">
+    </a>
 
 <h3 align="center">Pokemon Counter</h3>
 
