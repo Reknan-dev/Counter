@@ -9,8 +9,9 @@ Web App
 
 <br />
 
-
-<h3 align="center">Pokemon Counter</h3>
+<h3 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Pokemon+Counter)](https://git.io/typing-svg)
+</h3>
 
 <div align="center">
   <a href="https://github.com/Reknan-dev/Counter">
