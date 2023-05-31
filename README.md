@@ -4,11 +4,7 @@ Web App
 <a name="readme-top"></a>
 
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/benedetto-caiazzo-2ba997261/]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
