@@ -8,7 +8,7 @@ Web App
 <br />
 <div align="center">
   <a href="https://github.com/Reknan-dev/Counter">
-    ![logo](https://github.com/Reknan-dev/Counter/assets/124897691/ee80814d-1fe2-4446-bb94-946b6c44dc53)
+    <img src="/Counter/assests/img/logo.png">
 
   </a>
 
